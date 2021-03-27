@@ -1,0 +1,1 @@
+call findpetapp.edytuj_zgloszenie(2, 1, 3, 'Witajswiecie22222222222 czesc', NULL, '0', 'pies', 'husky', 'duza', 'rozowa', 'obroza biala s', 200, '2021-03-21 20:00:00', '2021-03-21 11:00:00', 53.011737, 18.587203, NULL, 'uploads/0d37b4c224a0cfcc4e89499e7dfc1487014b.jpg', 'NULL', 'NULL', 'NULL');
